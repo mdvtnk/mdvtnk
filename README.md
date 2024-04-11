@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center">неудобно мне в гите работать🥛</h1>
 
 <!--
 **mdvtnk/mdvtnk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
